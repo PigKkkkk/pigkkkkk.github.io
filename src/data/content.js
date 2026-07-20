@@ -26,7 +26,7 @@ export const experience = [
     location: "Kigali, Rwanda",
     type: "International Org",
     highlights: [
-      "Serving as Data Scientist on the World Bank SPARC (Smart Parcel Atlas for Resilient) Kigali Project",
+      "Serving as Geospatial Data Scientist on the World Bank SPARC (Smart Parcel Atlas for Resilient Cities) Kigali Project",
       "Applying geospatial AI and data science methods to urban resilience, spatial planning, and city diagnostics for Kigali",
       "Working at the intersection of international development, urban data science, and applied GeoAI",
     ],
