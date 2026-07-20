@@ -1,9 +1,8 @@
 export const profile = {
   name: "Gilbert Uwonkunda",
-  title: "Senior Data Scientist · Geospatial AI Engineer",
+  title: "Geosaptial Data Scientist",
   tagline:
-    "Senior Data Scientist at the World Bank SPARC Kigali Project. I build production GeoAI systems for government — illegal construction detection, urban planning intelligence, disaster risk tools — and independently building ZoneAgent, Rwanda's first LLM-powered land zoning tool.",
-  email: "gilbertuwonkundaa@gmail.com",
+    "Geospatial Data Scientist at the World Bank SPARC Kigali Project. 
   linkedin: "https://linkedin.com/in/gilbert-uwonkunda",
   github: "https://github.com/gilbert-uwonkunda",
   location: "Kigali, Rwanda",
@@ -12,7 +11,7 @@ export const profile = {
 
 export const about = {
   paragraphs: [
-    "I'm a Geospatial AI Engineer and Senior Data Scientist at the World Bank Group SPARC Kigali Project, with 5+ years building and deploying geospatial systems for Rwanda's national government. My work sits at the intersection of deep learning, enterprise GIS, land, environment and urban intelligence — designing systems that don't just prototype but actually ship.",
+    "I'm a Geospatial Data Scientist at the World Bank Group SPARC Kigali Project, with 5+ years building and deploying geospatial systems for Rwanda's national government. My work sits at the intersection of deep learning, enterprise GIS, land, environment and urban intelligence — designing systems that don't just prototype but actually ship.",
     "At Esri Rwanda, I architected the Urban Dynamic Map for secondary and satellite cities at MININFRA, deployed a MaskRCNN illegal construction detection model for the City of Kigali, and built a real-time landslide risk scoring application serving field inspectors on mobile and web.",
     "I'm currently independently building ZoneAgent, an AI-powered land zoning assistant that lets users query land-use regulations through satellite imagery and natural language. Rwanda's first LLM-powered zoning tool.",
   ],
@@ -20,13 +19,13 @@ export const about = {
 
 export const experience = [
   {
-    role: "Senior Data Scientist",
+    role: "Geospatial Data Scientist",
     company: "World Bank — SPARC Kigali Project",
     period: "Apr 2026 – Present",
     location: "Kigali, Rwanda",
     type: "International Org",
     highlights: [
-      "Serving as Senior Data Scientist on the World Bank SPARC (Spatial Planning and Resilience for Cities) Kigali Project",
+      "Serving as Data Scientist on the World Bank SPARC (Smart Parcel Atlas for Resilient) Kigali Project",
       "Applying geospatial AI and data science methods to urban resilience, spatial planning, and city diagnostics for Kigali",
       "Working at the intersection of international development, urban data science, and applied GeoAI",
     ],
