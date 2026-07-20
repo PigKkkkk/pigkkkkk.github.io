@@ -10,9 +10,6 @@ export default function Hero() {
           <p className="hero-title">
             <span className="highlight">Geospatial Data Scientist</span>, SPARC Initiative
           </p>
-          <p className="hero-title" style={{ fontSize: 'clamp(15px, 2vw, 20px)', marginTop: '-16px' }}>
-            Geospatial AI Engineer
-          </p>
 
           <p className="hero-tagline">
             {profile.tagline}

@@ -2,7 +2,7 @@ export const profile = {
   name: "Gilbert Uwonkunda",
   title: "Geospatial Data Scientist",
   tagline:
-    "Geospatial Data Scientist at the World Bank SPARC Kigali Project. I build production GeoAI systems for government — illegal construction detection, urban planning intelligence, disaster risk tools — and independently building ZoneAgent, Rwanda's first LLM-powered land zoning tool.",
+    "For five years I've turned satellite imagery into tools Rwanda's government actually uses — from detecting illegal construction across Kigali to scoring landslide risk for every building in the city. Today I'm a Geospatial Data Scientist on the World Bank SPARC Kigali Project, and building ZoneAgent, Rwanda's first LLM-powered land zoning tool.",
   email: "gilbertuwonkundaa@gmail.com",
   linkedin: "https://linkedin.com/in/gilbert-uwonkunda",
   github: "https://github.com/gilbert-uwonkunda",
